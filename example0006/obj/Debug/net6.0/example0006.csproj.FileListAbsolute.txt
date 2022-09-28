@@ -1,0 +1,15 @@
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\bin\Debug\net6.0\example0006.exe
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\bin\Debug\net6.0\example0006.deps.json
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\bin\Debug\net6.0\example0006.runtimeconfig.json
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\bin\Debug\net6.0\example0006.dll
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\bin\Debug\net6.0\example0006.pdb
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\example0006.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\example0006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\example0006.AssemblyInfoInputs.cache
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\example0006.AssemblyInfo.cs
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\example0006.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\example0006.dll
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\refint\example0006.dll
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\example0006.pdb
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\example0006.genruntimeconfig.cache
+C:\Users\Professional\Desktop\тестирование обучение\examples\example0006\obj\Debug\net6.0\ref\example0006.dll
